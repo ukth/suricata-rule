@@ -1,0 +1,81 @@
+11/20/2020-09:29:53.633625  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:53.634004  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.2:53
+11/20/2020-09:29:55.266045  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:55.267206  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:55.268721  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:56.033913  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:56.034415  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:56.041589  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:56.041886  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:56.042096  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:56.042188  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:56.042958  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:56.043115  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:56.047158  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:56.047303  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:56.057794  [**] [1:10002:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.35:47630 -> 223.130.195.200:443
+11/20/2020-09:29:58.439903  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:58.440588  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:58.458991  [**] [1:10002:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.35:41000 -> 210.89.170.11:443
+11/20/2020-09:29:58.610780  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:58.611150  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:58.638632  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:58.639110  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:59.074741  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:59.075106  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:59.087224  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:59.087542  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:59.156556  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:59.156767  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:59.174135  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:59.174380  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:29:59.177973  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:05.769442  [**] [1:10001:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.35:47198 -> 172.217.175.228:443
+11/20/2020-09:30:06.347111  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:06.347458  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:06.358314  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:06.358639  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:06.461523  [**] [1:10001:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.35:44104 -> 216.58.197.132:443
+11/20/2020-09:30:06.466272  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:06.466548  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:07.018321  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:07.018611  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:07.781080  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:07.781345  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:07.871150  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:07.872302  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:08.293583  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:08.293949  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:08.526480  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:08.526799  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:08.896568  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:08.896991  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:08.923327  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:08.923518  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:11.863479  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:11.863790  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:11.867329  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:11.867518  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:11.867588  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.2:53
+11/20/2020-09:30:12.257613  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:12.257939  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:12.688017  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:12.688509  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:14.367464  [**] [1:10001:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.35:47242 -> 172.217.175.228:443
+11/20/2020-09:30:14.654204  [**] [1:10001:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.35:47246 -> 172.217.175.228:443
+11/20/2020-09:30:14.796064  [**] [1:10001:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.35:47248 -> 172.217.175.228:443
+11/20/2020-09:30:15.922571  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:15.922981  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:15.944059  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:15.944294  [**] [1:10003:1] facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.35:50364 -> 157.240.215.35:443
+11/20/2020-09:30:15.944488  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:15.961978  [**] [1:10003:1] facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.35:50366 -> 157.240.215.35:443
+11/20/2020-09:30:15.968889  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:15.969377  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:15.970291  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:16.531864  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:16.533327  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:16.874396  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:16.874739  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:18.650709  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
+11/20/2020-09:30:18.651302  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.0.35:36785 -> 168.126.63.1:53
